@@ -43,6 +43,8 @@ I have a Master of Engineer in AI and Data Science from the University of Ottawa
 
 - [Books Clustering](https://github.com/Eng-Abdelrahman-M/AI-and-Data-Science/tree/main/NLP/Books%20Clustering): produce similar clusters and compare them; analyze the pros and cons of algorithms, generate and communicate the insights.
 
+- [Speech Question Answering](https://github.com/Eng-Abdelrahman-M/Question-Answering-Bert): Answer speech questions on a specified document.
+
 ## Blog
 
 - [Handwritten Digit Recognition (MNIST) Using PyTorch](https://blog.machinfy.com/handwritten-digit-recognition-mnist-using-pytorch/)
