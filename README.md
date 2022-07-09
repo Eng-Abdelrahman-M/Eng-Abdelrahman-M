@@ -33,6 +33,8 @@ I have a Master of Engineer in AI and Data Science from the University of Ottawa
 
 - [Tennis object detection](https://github.com/Eng-Abdelrahman-M/AI-and-Data-Science/tree/main/Computer%20vision/Tennis%20object%20detection): Train Yolov4 model to detect Tennis player, racket and ball. 
 
+- __COVID Protective Measures Tracking__ : Graduation project focuses on monitor how well  people apply **COVID** protective measures by counts people in a palce, detect it they are wearing face masks or not and measure the destances between them.
+
 - __People Counter__ : Count people inside some given ROIs.
   - [Python](https://github.com/Eng-Abdelrahman-M/People-Counter)
   - [C++](https://github.com/Eng-Abdelrahman-M/People-Counter-Cpp)
@@ -44,6 +46,8 @@ I have a Master of Engineer in AI and Data Science from the University of Ottawa
 - [Books Clustering](https://github.com/Eng-Abdelrahman-M/AI-and-Data-Science/tree/main/NLP/Books%20Clustering): produce similar clusters and compare them; analyze the pros and cons of algorithms, generate and communicate the insights.
 
 - [Speech Question Answering](https://github.com/Eng-Abdelrahman-M/Question-Answering-Bert): Answer speech questions on a specified document.
+
+- E-Commerce Chatbot using Rasa. 
 
 ## Blog
 
