@@ -47,7 +47,7 @@ I have a Master of Engineer in AI and Data Science from the University of Ottawa
 
 - [Speech Question Answering](https://github.com/Eng-Abdelrahman-M/Question-Answering-Bert): Answer speech questions on a specified document.
 
-- E-Commerce Chatbot using Rasa. 
+- E-Commerce Chatbot using **Rasa**. 
 
 ## Blog
 
