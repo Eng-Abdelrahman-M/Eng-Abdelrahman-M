@@ -22,8 +22,8 @@ I have a Master of Engineer in AI and Data Science from the University of Ottawa
   - Test different activation functions.
 
 - [Decision Tree, Bagging and Boosting](https://github.com/Eng-Abdelrahman-M/AI-and-Data-Science/tree/main/Machine%20learning/Decision%20Tree%20%2B%20Bagging%20%2B%20Boosting): 
-- Train Decision tree, bagging and boosting.
-- Plot decision boundaries. 
+  - Train Decision tree, bagging and boosting.
+  - Plot decision boundaries. 
 
 - [Comparing Different Algorithms](https://github.com/Eng-Abdelrahman-M/AI-and-Data-Science/tree/main/Machine%20learning/Comparing%20Different%20Algorithms): 
   - Train Decision Tree, SVM and Gradiant Boost. 
