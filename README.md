@@ -7,7 +7,7 @@ I have a Master of Engineer in AI and Data Science from the University of Ottawa
 
 ### Machine Learning
 
-- [Clutering Pokémon dataset](https://github.com/Eng-Abdelrahman-M/AI-and-Data-Science/blob/main/Machine%20learning/Clustering/Clutering_Pok%C3%A9mon_dataset.ipynb):
+- [Clutering Pokémon](https://github.com/Eng-Abdelrahman-M/AI-and-Data-Science/tree/main/Machine%20learning/Clustering%20Pok%C3%A9mon):
   - Apply Clustering models (Kmeans, SOM, T-NSE and DBSCAN).
 
 - [Naïve Bayes Classification](https://github.com/Eng-Abdelrahman-M/AI-and-Data-Science/tree/main/Machine%20learning/Na%C3%AFve%20Bayes%20Classification): 
@@ -51,7 +51,7 @@ I have a Master of Engineer in AI and Data Science from the University of Ottawa
 - [Tennis object detection](https://github.com/Eng-Abdelrahman-M/AI-and-Data-Science/tree/main/Computer%20vision/Tennis%20object%20detection): 
   - Train Yolov4 model to detect Tennis player, racket and ball. 
 
-- __COVID Protective Measures Tracking__ : Graduation project 
+- [__COVID Protective Measures Tracking__](https://github.com/Eng-Abdelrahman-M/AI-and-Data-Science/tree/main/Computer%20vision/COVID%20protective%20measures%20tracking) : Graduation project 
   - Monitor how well  people apply **COVID** protective measures by 
     - Count people in a palce
     - Detect if they are wearing face masks or not
